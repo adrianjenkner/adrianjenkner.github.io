@@ -22,22 +22,6 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-```iecst
-INTERFACE ITF_LinkedList_Master EXTENDS ITF_LinkedList_Node
-```
-```iecst
-METHOD mListAdd : BOOL
-VAR_INPUT
-	itfNode:	ITF_LinkedList_Node;
-END_VAR
-```
-```iecst
-METHOD mListRemove : BOOL
-VAR_INPUT
-	itfNode:	ITF_LinkedList_Node;
-END_VAR
-```
-
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
