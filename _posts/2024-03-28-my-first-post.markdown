@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-04-24 15:10:56 +0900
-categories: jekyll update
+title:  "My first post"
+date:   2024-03-28 00:00:00 +0000
+categories: administrative
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+My first post.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -21,6 +21,22 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+```iecst
+INTERFACE ITF_LinkedList_Master EXTENDS ITF_LinkedList_Node
+```
+```iecst
+METHOD mListAdd : BOOL
+VAR_INPUT
+	itfNode:	ITF_LinkedList_Node;
+END_VAR
+```
+```iecst
+METHOD mListRemove : BOOL
+VAR_INPUT
+	itfNode:	ITF_LinkedList_Node;
+END_VAR
+```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
