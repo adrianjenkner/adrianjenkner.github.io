@@ -1,4 +1,6 @@
-# whiteglass-template
+# My personal blog
+
+My personal blog on GitHub Page created with the static site generator Jekyll using the Whiteglass theme.
 
 [![Jekyll Deploy](https://github.com/yous/whiteglass-template/workflows/Jekyll%20Deploy/badge.svg?branch=source)](https://github.com/yous/whiteglass-template/actions?query=workflow%3A%22Jekyll+Deploy%22+branch%3Asource)
 
