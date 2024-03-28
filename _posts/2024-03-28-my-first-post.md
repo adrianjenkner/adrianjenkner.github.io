@@ -9,18 +9,10 @@ meta: "twincat"
 
 My first post.
 
-```iecst
-INTERFACE ITF_LinkedList_Master EXTENDS ITF_LinkedList_Node
-```
-```iecst
-METHOD mListAdd : BOOL
-VAR_INPUT
-	itfNode:	ITF_LinkedList_Node;
-END_VAR
-```
-```iecst
-METHOD mListRemove : BOOL
-VAR_INPUT
-	itfNode:	ITF_LinkedList_Node;
-END_VAR
-```
+{% highlight plaintext %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
