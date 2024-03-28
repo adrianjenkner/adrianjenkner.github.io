@@ -16,3 +16,5 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+![My avatar](https://avatars.githubusercontent.com/u/84644996?s=400&u=840237a30a10a218d4172a855c61a5fe25272a3a&v=4)
