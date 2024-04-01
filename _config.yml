@@ -68,6 +68,7 @@ exclude:
 
 indlude:
   - _sass/
+  - _includes/
 
 # Outputting
 permalink: /:year/:month/:day/:title/
