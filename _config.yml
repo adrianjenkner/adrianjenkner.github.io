@@ -66,6 +66,9 @@ plugins:
 exclude:
   - README.md
 
+indlude:
+  - _sass/
+
 # Outputting
 permalink: /:year/:month/:day/:title/
 
