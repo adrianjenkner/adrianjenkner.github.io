@@ -18,6 +18,6 @@ If you want to access all Event Classes and the Events declared in them in one w
 1. Create a `*.tmc` file in your project.
 2. Right-click on the `*.tmc` file as shown in the screenshot below.
 
-![Screenshot](/assets/images/twincat-trick.png)
+![Screenshot](/assets/images/2024-08-05-access-event-classes-in-twincat-3.jpeg)
 
 This will allow you to see all Event Classes and the associated Events in one convenient window.
