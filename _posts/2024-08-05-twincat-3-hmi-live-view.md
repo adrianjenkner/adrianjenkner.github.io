@@ -18,6 +18,7 @@ If you want to display the HMI Live-View at a specific IP address, follow these 
 2. Set your desired IP address.
 
 ![HMI Live-View Configuration](assets/images/2024-08-05-twincat-3-hmi-live-view.jpeg)
+![Screenshot](/assets/images/2024-08-05-access-event-classes-in-twincat-3.jpeg)
 
 I use this option to display the HMI on an additional monitor outside of the virtual machine. This can be particularly useful for testing the visualization on devices such as tablets or smartphones.
 
