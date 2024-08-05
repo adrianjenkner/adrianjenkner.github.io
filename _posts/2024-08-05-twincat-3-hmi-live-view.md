@@ -8,7 +8,6 @@ tags:
   - HMI
   - Live-View
   - IP Address
-  - Testing
 ---
 
 In this post, we'll explore a simple trick in TwinCAT 3 HMI to help you with visualization and testing.
