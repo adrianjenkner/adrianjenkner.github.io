@@ -62,11 +62,11 @@ author:
   avatar : "/assets/images/myPhoto.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Blitz Automatyka"
       icon: "fas fa-fw fa-link"
       url: "https://blitz.pl/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/adrianjenkner/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
