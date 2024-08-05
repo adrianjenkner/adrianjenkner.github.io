@@ -21,4 +21,4 @@ If you want to display the HMI Live-View at a specific IP address, follow these 
 
 I use this option to display the HMI on an additional monitor outside of the virtual machine. This can be particularly useful for testing the visualization on devices such as tablets or smartphones.
 
-For more detailed information, check out the [Beckhoff Infosys](https://lnkd.in/dXsbJMKV).
+For more detailed information, check out the [Beckhoff Infosys](https://infosys.beckhoff.com/english.php?content=../content/1033/te2000_tc3_hmi_engineering/2669751691.html&id=).
