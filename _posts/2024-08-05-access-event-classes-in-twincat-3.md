@@ -6,8 +6,8 @@ categories:
 tags:
   - TwinCAT
   - PLC
+  - Events
   - Event Classes
-  - TMC
   - Tips
 ---
 
@@ -15,8 +15,9 @@ In this post, we'll explore a simple trick in TwinCAT 3 that can make your workf
 
 If you want to access all Event Classes and the Events declared in them in one window, follow these steps:
 
-1. Create a `*.tmc` file in your project.
+1. Create a `*.tmc` file in your project, placing it below the Type System.
 2. Right-click on the `*.tmc` file as shown in the screenshot below.
+3. Click `Edit Project File`.
 
 ![Screenshot](/assets/images/2024-08-05-access-event-classes-in-twincat-3.jpeg)
 
