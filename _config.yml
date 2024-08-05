@@ -59,6 +59,7 @@ author:
   name   : "Adrian Jenkner"
   avatar : "/assets/images/myPhoto.jpeg"
   bio    : "My personal blog where I plan to write about programming Beckhoff IPC's in TwinCAT 3 and controllers based on Codesys."  #My awesome biography constrained to a sentence or two goes here
+  location : "Bielsko-Biała, Poland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
