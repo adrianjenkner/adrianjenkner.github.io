@@ -1,3 +1,8 @@
+# My personal blog
+
+My personal blog on GitHub Page created with the static site generator Jekyll using the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
