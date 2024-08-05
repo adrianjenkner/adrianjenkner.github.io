@@ -14,17 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TwinCAT / Codesys
-subtitle: Blog about Programming in Industrial Automation
+subtitle: Programming in Industrial Automation
 email: automatyka@blitz.pl
 description: "Welcome to my personal blog where I share my expertise in programming PLCs and developing HMIs, primarily using Beckhoff TwinCAT and CODESYS controllers. Discover in-depth tutorials, practical tips, and valuable insights into industrial automation. Whether you're just starting out or are an experienced engineer, you'll find step-by-step guides and best practices to help you master PLC programming, HMI development, and optimize your automation projects."
-#Welcome to my personal blog where I share my expertise in programming PLCs and developing HMIs, 
-#primarily using Beckhoff TwinCAT and CODESYS controllers. Discover in-depth tutorials, practical tips, 
-#and valuable insights into industrial automation. Whether you're just starting out or are an experienced engineer, 
-#you'll find step-by-step guides and best practices to help you master PLC programming, HMI development, and optimize your automation projects.
-# >- # this means to ignore newlines until "baseurl:"
- # Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: adrianjenkner
 minimal_mistakes_skin: dark
