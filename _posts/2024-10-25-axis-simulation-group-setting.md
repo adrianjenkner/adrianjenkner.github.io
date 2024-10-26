@@ -1,6 +1,6 @@
 ---
 title: "Enabling Axis Simulation in TwinCAT 3: A Quick Trick for Multiple Axes"
-date: 2024-10-26 12:00:00 +0000
+date: 2024-10-25 12:00:00 +0000
 categories: 
   - TwinCAT PLC Tips
 tags:
