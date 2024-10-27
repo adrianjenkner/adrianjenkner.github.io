@@ -1,5 +1,5 @@
 ---
-title: "TwinCAT 3 Motion"
+title: "Connecting Third-Party Drives to TwinCAT 3 Motion: Tips and Tricks"
 date: 2024-10-26 12:00:00 +0000
 categories: 
   - TwinCAT PLC Tips
@@ -16,20 +16,14 @@ TwinCAT automatically handles the linking of Beckhoff drives. If you're using AX
 
 Here are two rough videos showing my tests to control Delta ASDA-B3 drives using TwinCAT:
 
-https://www.youtube.com/watch?v=GCXpx73AUXI
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCXpx73AUXI?si=7EGQxFdm5j-TDhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-https://www.youtube.com/watch?v=jU9F2c51ujM
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jU9F2c51ujM?si=XH0Pliqw7_lurAwB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Recently Chris Chung the author of the blog http://soup01.com/en/ created a great tutorial on connecting TwinCAT with the Delta ASDA-A3. Below is the link:
 
-https://www.youtube.com/watch?v=ngLZH9JrsD4
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngLZH9JrsD4?si=LLH5oN379ub93b23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 If you have a drive for which TwinCAT can perform the linking automatically I recommend checking out Chris's video. You'll find all the necessary information there.
 
-We will focus on drives that require manual configuration for linking. An example of such a drive is the Infranor Xtrapuls.
+We will focus on drives that require manual editing of the automatic linking. An example of such a drive is the Infranor Xtrapuls.
