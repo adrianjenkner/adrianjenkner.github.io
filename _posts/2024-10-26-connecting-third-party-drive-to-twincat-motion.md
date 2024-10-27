@@ -1,6 +1,6 @@
 ---
 title: "Connecting Third-Party Drives to TwinCAT 3 Motion: Tips and Tricks"
-date: 2025-10-26 12:00:00 +0000
+date: 2024-10-26 12:00:00 +0000
 categories: 
   - TwinCAT PLC Tips
 tags:
@@ -27,3 +27,9 @@ Recently Chris Chung the author of the blog http://soup01.com/en/ created a grea
 If you have a drive for which TwinCAT can perform the linking automatically I recommend checking out Chris's video. You'll find all the necessary information there.
 
 We will focus on drives that require manual editing of the automatic linking. An example of such a drive is the Infranor Xtrapuls.
+
+**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+{: .notice--warning}
+
+**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+{: .notice--danger}
