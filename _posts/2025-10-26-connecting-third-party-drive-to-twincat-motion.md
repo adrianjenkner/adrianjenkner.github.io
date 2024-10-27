@@ -1,6 +1,6 @@
 ---
 title: "Connecting Third-Party Drives to TwinCAT 3 Motion: Tips and Tricks"
-date: 2024-10-26 12:00:00 +0000
+date: 2025-10-26 12:00:00 +0000
 categories: 
   - TwinCAT PLC Tips
 tags:
